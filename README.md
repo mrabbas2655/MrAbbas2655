@@ -2,7 +2,7 @@
 
 [I]( https://www.instagram.com/mrbbas2655) am a software engineer and co-founder of @ [sanatGonimorsadi]()🌕💎
 
-- I am a Flutter developer at Academy and [Maktabkhooneh](https://maktabkhooneh.org/)
+- I am a Flutter developer at 
 
 - Check out my projects in [Repositories](https://github.com/mrabbas2655?tab=repositories)
 
