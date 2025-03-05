@@ -21,4 +21,5 @@
 
 ### Github Stats
 
-[![Sasan's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbas2655&layout=compact&theme=radical)
+[![Sasan's Github Stats](https://github-readme-stats.vercel.app/api?username=mrabbas2655&show_icons=true&theme=radical)
+
