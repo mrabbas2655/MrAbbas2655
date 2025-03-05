@@ -21,8 +21,8 @@
 
 ### Github Stats
 
-[![Sasan's Github Stats](https://github-readme-stats.vercel.app/api?username=mrabbas2655&show_icons=true&theme=radical)
+[![Abbas's Github Stats](https://github-readme-stats.vercel.app/api?username=mrabbas2655&show_icons=true&theme=radical)
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrabbas2655&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrabbas2655&layout=compact&theme=radical)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mrabbas2655&theme=radical)
 
